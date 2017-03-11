@@ -1,5 +1,5 @@
 // Determine whether a triangle can be built from a given set of edges.
-// Notice that (long int)(INT_MAX + INT_MAX) = 2; (long int)INT_MAX + (long int)INT_MAX = 4,294,967,294
+// Notice that (long int)(INT_MAX + INT_MAX) = -2; (long int)INT_MAX + (long int)INT_MAX = 4,294,967,294
 
 #include <algorithm>
 
