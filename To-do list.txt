@@ -1,0 +1,22 @@
+Lesson1  Iterations:           		  Done
+Lesson2  Arrays:               		  Done
+Lesson3  Time complexity:      		  Done
+Lesson4  Counting Elements:    		  Done
+Lesson5  Prefix Sums: 
+		 GenomicRangeQuery
+		 MinAvgTwoSlice
+Lesson6  Sorting:
+		 NumberOfDiscIntersections
+Lesson7  Stacks and Queues: 
+		 Brackets
+		 Fish
+		 Nesting
+		 StoneWall
+Lesson8  Leader:
+		 Dominator
+		 EquiLeader
+Lesson9  Maximum slice problem:
+		 MaxDoubleSliceSum
+		 MaxProfit
+		 MaxSliceSum
+Lesson10 Prime and composite numbers: Done 
