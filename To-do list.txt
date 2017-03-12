@@ -1,19 +1,19 @@
 Lesson5  Prefix Sums: 
-		 GenomicRangeQuery
-		 MinAvgTwoSlice
+			GenomicRangeQuery
+		 	MinAvgTwoSlice
 Lesson6  Sorting:
-		 NumberOfDiscIntersections
+		 	NumberOfDiscIntersections
 Lesson7  Stacks and Queues: 
-		 Brackets
-		 Fish
-		 Nesting
-		 StoneWall
+		 	Brackets
+		 	Fish
+		 	Nesting
+		 	StoneWall
 Lesson8  Leader:
-		 Dominator
-		 EquiLeader
+		 	EquiLeader
 Lesson9  Maximum slice problem:
-		 MaxDoubleSliceSum
-		 MaxProfit
-		 MaxSliceSum
+		 	MaxDoubleSliceSum
+		 	MaxProfit
+		 	MaxSliceSum
 Lesson10 Prime and composite numbers: 
-		 Flags 
+		 	Flags
+		 	... 
