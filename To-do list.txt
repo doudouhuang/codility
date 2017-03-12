@@ -1,7 +1,3 @@
-Lesson1  Iterations:           		  Done
-Lesson2  Arrays:               		  Done
-Lesson3  Time complexity:      		  Done
-Lesson4  Counting Elements:    		  Done
 Lesson5  Prefix Sums: 
 		 GenomicRangeQuery
 		 MinAvgTwoSlice
@@ -19,4 +15,5 @@ Lesson9  Maximum slice problem:
 		 MaxDoubleSliceSum
 		 MaxProfit
 		 MaxSliceSum
-Lesson10 Prime and composite numbers: Done 
+Lesson10 Prime and composite numbers: 
+		 Flags 
