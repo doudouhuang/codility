@@ -8,8 +8,6 @@ Lesson7  Stacks and Queues:
 		 	Fish
 		 	Nesting
 		 	StoneWall
-Lesson8  Leader:
-		 	EquiLeader
 Lesson9  Maximum slice problem:
 		 	MaxDoubleSliceSum
 		 	MaxProfit
