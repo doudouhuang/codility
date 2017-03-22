@@ -10,8 +10,6 @@ Lesson7  Stacks and Queues:
 		 	StoneWall
 Lesson9  Maximum slice problem:
 		 	MaxDoubleSliceSum
-		 	MaxProfit
-		 	MaxSliceSum
 Lesson10 Prime and composite numbers: 
 		 	Flags
 		 	... 
