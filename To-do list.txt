@@ -8,8 +8,6 @@ Lesson7  Stacks and Queues:
 		 	Fish
 		 	Nesting
 		 	StoneWall
-Lesson9  Maximum slice problem:
-		 	MaxDoubleSliceSum
 Lesson10 Prime and composite numbers: 
 		 	Flags
 		 	... 
